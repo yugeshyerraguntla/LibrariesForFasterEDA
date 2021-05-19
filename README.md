@@ -14,3 +14,8 @@ The Repository includes:
 3. DTale:
 4. DataPrep:
 5. Vaxe:
+
+
+Vizualize:
+1. Pandas Vizual Analysis
+2. Auto Viz
